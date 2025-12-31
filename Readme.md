@@ -1,3 +1,4 @@
+```
 overthewire-bandit-writeups/
 ├── 01-basics/                ← Levels 0-10: Linux basics
 │   ├── bandit0.md
@@ -17,3 +18,4 @@ overthewire-bandit-writeups/
 └── templates/                ← Templates for new writeups
     ├── bandit-level-template.md
     └── html-lesson-template.html
+```
